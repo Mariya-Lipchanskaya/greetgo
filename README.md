@@ -1,0 +1,2 @@
+# greetgo
+Project for YessenovDataLab
